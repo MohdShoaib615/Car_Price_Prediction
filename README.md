@@ -14,3 +14,8 @@ The goal of this project is to build a predictive model that can accurately esti
 --> **Model Selection:** We explore multiple regression algorithms, comparing their performance to select the best-performing model.
 
 --> **Model Evaluation:** The chosen model is evaluated using relevant metrics, ensuring its accuracy and robustness
+
+
+**CONCLUSION:-** 
+    
+Using the Data Cleaning, Data Preprocessing and Machine Learning algorithms I have achieved a good predicting model with RandomForestRegressor.
